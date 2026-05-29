@@ -1,0 +1,12 @@
+{
+  "name": "com.blackpearl.hellopackage",
+  "displayName": "Hello Package",
+  "version": "1.1.0",
+  "unity": "2022.3",
+  "description": "A minimal package",
+  "keywords": ["ump","package", "example"],
+  "author": {
+    "name": "Zang Woo Sung",
+    "url": "https://sites.google.com/view/unitydev/home"
+  }
+}
